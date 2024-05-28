@@ -8,3 +8,5 @@ Docker Containerization FastAPI Hello World
 4. Write Test
 5. Add Pytest
 6. Run Pytest
+7. Create Dockerfile
+8. Build Docker Image
