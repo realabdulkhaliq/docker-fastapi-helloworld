@@ -10,6 +10,9 @@ Docker Containerization FastAPI Hello World
 6. Run Pytest
 7. Create Dockerfile
 8. Build Docker Image
+
    ```
    docker build -f Dockerfile.dev -t fastapi-helloworld-image .
    ```
+
+9. Run Image
