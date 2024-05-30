@@ -23,3 +23,6 @@ Docker Containerization FastAPI Hello World
    ```
 
 9. Run Image
+   ```
+   docker run -d --name dev-fastapi-hw-cont1 -p 8000:8000 fastapi-helloworld-image
+   ```
