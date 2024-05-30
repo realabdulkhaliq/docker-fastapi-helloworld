@@ -31,3 +31,9 @@ Docker Containerization FastAPI Hello World
     ```
     docker logs container_name/container_id
     ```
+
+11. Run
+
+    ```
+    http://localhost:8000/
+    ```
