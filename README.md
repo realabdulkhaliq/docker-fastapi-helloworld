@@ -16,6 +16,10 @@ Docker Containerization FastAPI Hello World
    docker build -f Dockerfile.dev -t fastapi-helloworld-image .
    ```
 
-   192.168.65.0/24
+   _If login error occur_
+
+   ```
+   docker login
+   ```
 
 9. Run Image
