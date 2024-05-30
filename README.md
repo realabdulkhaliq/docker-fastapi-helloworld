@@ -26,3 +26,8 @@ Docker Containerization FastAPI Hello World
    ```
    docker run -d --name dev-fastapi-hw-cont1 -p 8000:8000 fastapi-helloworld-image
    ```
+10. To see logs
+
+    ```
+    docker logs container_name/container_id
+    ```
