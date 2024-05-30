@@ -1,6 +1,8 @@
 # docker-fastapi-helloworld
 
 Docker Containerization FastAPI Hello World
+https://github.com/realabdulkhaliq/how-to-install-and-run-poetry-in-python-on-window
+https://github.com/realabdulkhaliq/fastapi_helloworld
 
 1. Create Poetry Project
 2. Add FastAPI & UVICORN
